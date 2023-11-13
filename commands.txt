@@ -3,7 +3,8 @@ git init (to initilize a new reposetary)
 git status (if files is shown in red it means that you files is not save in the staging area when the files is 
             green the files is save in the staging area)
 
-git add (if you want to save files to the staging area and you can add on file or more even everyone at ones)
+git add . (if you want to save files to the staging area and you can add on file or more even everyone at ones 
+            with a .)
 
 git commit -m "you comment" (this will save it as a new commit you can go back to later with a comment from you 
                             where you explain what's new)
