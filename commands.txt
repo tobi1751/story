@@ -1,3 +1,11 @@
+git branch -M main (use this to make a new branch in you github for files the first is alway main after here you 
+                    give you branches a name like )
+
+git remote add origin "your github link" (place your github link so the program know the right reposetary)
+
+git push -u origin main (here you push it on to your github "main is the first time the next time will you use 
+                        your new branch")
+
 git init (to initilize a new reposetary)
 
 git status (if files is shown in red it means that you files is not save in the staging area when the files is 
@@ -10,3 +18,7 @@ git commit -m "you comment" (this will save it as a new commit you can go back t
                             where you explain what's new)
 
 git log (use to see all the commit you have made and when you made them)
+
+git diff filename (to se the changes we have make from the old save stage and the stage we have now)
+
+git checkout filename (if you want to go back to stage you have saved)
