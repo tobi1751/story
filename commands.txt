@@ -6,6 +6,8 @@ git remote add origin "your github link" (place your github link so the program 
 git push -u origin main (here you push it on to your github "main is the first time the next time will you use 
                         your new branch")
 
+git branch branch-name (to switch to another branch)
+
 git init (to initilize a new reposetary)
 
 git status (if files is shown in red it means that you files is not save in the staging area when the files is 
